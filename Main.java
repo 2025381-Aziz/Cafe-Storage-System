@@ -78,6 +78,13 @@ public class Main {
         FoodItem item = new FoodItem(name, (int) weight, date, time);
         storage.addFood(item);
         break;
+                    case 2:
+    storage.removeFood();
+    break;
+
+case 3:
+    storage.peekFood();
+    break;
         }
     }
 }
