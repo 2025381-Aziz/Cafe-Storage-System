@@ -1,1 +1,4 @@
-// empty file
+package cafestoragesystem;
+
+class FoodItem {
+}
