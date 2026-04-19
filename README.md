@@ -1,3 +1,6 @@
+## Author
+Azizbek Achilov - 2025381
+
 # Cafe Storage System
 
 This project is developed using Java.
